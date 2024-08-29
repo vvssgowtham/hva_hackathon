@@ -38,6 +38,7 @@ html {
   justify-content: center;
   align-items: center;
   gap: 4px;
+  margin-bottom: 39px;
 }
 
 .frame-7 > h1 {
@@ -54,7 +55,6 @@ html {
 .group-1 {
   box-sizing: border-box;
   margin-top: 32px;
-  margin-bottom: 57px;
   display: flex;
   align-items: center;
 }
