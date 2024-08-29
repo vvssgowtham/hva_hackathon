@@ -26,7 +26,7 @@ Technologies Used
 
 - HTML: For the basic structure of the website.
 - CSS: For styling the components and layout.
-- JavaScript: For dynamic functionality and interactive elements.
+- JavaScript: For dynamic functionality and interactive elements(Still to be implemented).
 
 Installation
 
