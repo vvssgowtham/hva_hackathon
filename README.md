@@ -1,6 +1,6 @@
 NewsAPI Website
 
-Welcome to the NewsAPI Website, a responsive web application that displays top news articles from India. This project demonstrates a clean and modern UI built with HTML, CSS, and JavaScript(Still to be implemented ), allowing users to search for news and explore various articles.
+Welcome to the NewsAPI Website, a web application that displays top news articles from India. This project demonstrates a clean UI built with HTML, CSS, and JavaScript(Still to be implemented ), allowing users to search for news and explore various articles.
 
 Table of Contents
 
