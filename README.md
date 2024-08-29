@@ -2,15 +2,6 @@ NewsAPI Website
 
 Welcome to the NewsAPI Website, a web application that displays top news articles from India. This project demonstrates a clean UI built with HTML, CSS, and JavaScript(Still to be implemented ), allowing users to search for news and explore various articles.
 
-Table of Contents
-
-- [Overview]
-- [Features]
-- [Technologies Used]
-- [Installation]
-- [Usage]
-- [Contributing]
-
 Overview
 
 The NewsAPI Website is a simple, user-friendly web application that provides users with the latest news from India. The website includes a search functionality for users to easily find news articles of interest. The layout is designed to be intuitive and accessible, featuring a clean design and responsive elements.
